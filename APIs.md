@@ -11,7 +11,7 @@ Identifies or creates a contact based on provided email or phone number.
 ```json
 {
   "email": "user@example.com"
-  "phoneNumber: "99994048920"
+  "phoneNumber: "999940420"
 }
 ```
 
