@@ -1,5 +1,7 @@
 # Bitespeed Backend 
 
+It is a robust backend application designed to manage contacts efficiently. It provides a suite of APIs that allow users to identify existing contacts or create new ones based on email or phone number inputs. This project aims to streamline contact management by centralizing contact information and linking related contacts for better organization.
+
 ## Running the code
 
 - Have a mongo server running
